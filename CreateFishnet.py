@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# In[ ]:
-
 
 from shapely import geometry
 import geopandas as gpd
