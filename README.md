@@ -5,4 +5,7 @@ Input: a boundary shapefile, the size of the square grids
 
 Output: a polygon shapefile comprising a group of square grids is created.
 
-![image](https://github.com/yangzhang-nudt/Create-a-fishnet-of-an-area/tree/master/image/Chicago-fishnet.png)  
+
+
+
+![](https://github.com/yangzhang-nudt/Create-a-fishnet-of-an-area/tree/master/image/ChicagoSouthSide.png)  
